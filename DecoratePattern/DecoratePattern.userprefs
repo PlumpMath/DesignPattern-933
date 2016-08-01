@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mocha.cs">
+    <Files>
+      <File FileName="Beverage.cs" Line="1" Column="1" />
+      <File FileName="CondimentDecorate.cs" Line="1" Column="1" />
+      <File FileName="Espresso.cs" Line="1" Column="1" />
+      <File FileName="HouseBlend.cs" Line="1" Column="1" />
+      <File FileName="Mocha.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
