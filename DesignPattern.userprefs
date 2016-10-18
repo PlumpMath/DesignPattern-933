@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Console/Console.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DecoratePattern/Mocha.cs">
+    <Files>
+      <File FileName="DecoratePattern/Beverage.cs" Line="15" Column="34" />
+      <File FileName="DecoratePattern/CondimentDecorate.cs" Line="14" Column="1" />
+      <File FileName="DecoratePattern/Espresso.cs" Line="9" Column="12" />
+      <File FileName="DecoratePattern/HouseBlend.cs" Line="9" Column="12" />
+      <File FileName="DecoratePattern/Mocha.cs" Line="13" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

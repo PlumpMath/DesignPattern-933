@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratePattern", "DecoratePattern.csproj", "{BE63F17F-1A82-43F3-BF28-7D7BBCEA3353}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE63F17F-1A82-43F3-BF28-7D7BBCEA3353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE63F17F-1A82-43F3-BF28-7D7BBCEA3353}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE63F17F-1A82-43F3-BF28-7D7BBCEA3353}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE63F17F-1A82-43F3-BF28-7D7BBCEA3353}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
